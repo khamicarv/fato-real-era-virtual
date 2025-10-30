@@ -1,10 +1,12 @@
 # fato-real-era-virtual
-1. Por que a Aspect Telecommunications é capaz de comprar software aplicativo com base naquilo que faz para a empresa, e não com base em qual sistema operacional ele é executado?
-A Aspect Telecommunications pode comprar software com base na sua função, e não no sistema operacional, porque utiliza tecnologias que permitem integração entre diferentes plataformas. Assim, os programas podem ser executados em vários sistemas sem depender de um específico, como Windows ou Unix. Isso dá mais liberdade de escolha e possibilita que a empresa foque em soluções que realmente atendam suas necessidades de negócio.
+1. Por que companhias como a Egg-head e a EarthLink optam por executar suas aplicações empresariais em Unix ou outros sistemas em vez de esperar pelo Windows 2000?
+Porque Unix e outros sistemas oferecem maior estabilidade, confiabilidade e compatibilidade com aplicações críticas, permitindo que as empresas não dependam de um sistema futuro como o Windows 2000.
 
 ⸻
+2.Por que a Aspect Telecommunications consegue comprar software com base na função para a empresa e não no sistema operacional?
+Porque a empresa prioriza a funcionalidade e os resultados que o software oferece para seus processos, independentemente do sistema operacional em que ele roda, garantindo que a solução atenda às suas necessidades de negócio.
 
-2. Quais estratégias de negócios a Microsoft poderia adotar para recapturar o sucesso anterior do Windows NT? O que os concorrentes da Microsoft devem fazer para capitalizarem sua oportunidade atual de negócios?
+3. Quais estratégias de negócios a Microsoft poderia adotar para recapturar o sucesso anterior do Windows NT? O que os concorrentes da Microsoft devem fazer para capitalizarem sua oportunidade atual de negócios?
 A Microsoft poderia investir em melhorar a estabilidade, segurança e compatibilidade do Windows NT/2000, além de oferecer suporte técnico eficiente e recursos que facilitassem a migração de empresas que usavam Unix. Também poderia adotar estratégias de marketing e parcerias com grandes corporações para reconquistar confiança.
 Já os concorrentes da Microsoft deveriam aproveitar o momento para destacar os pontos fortes de seus sistemas, como confiabilidade, menor custo e desempenho superior, buscando conquistar empresas que estavam insatisfeitas com as limitações do Windows NT.
 
