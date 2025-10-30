@@ -6,9 +6,7 @@ Porque Unix e outros sistemas oferecem maior estabilidade, confiabilidade e comp
 2.Por que a Aspect Telecommunications consegue comprar software com base na função para a empresa e não no sistema operacional?
 Porque a empresa prioriza a funcionalidade e os resultados que o software oferece para seus processos, independentemente do sistema operacional em que ele roda, garantindo que a solução atenda às suas necessidades de negócio.
 
-3. Quais estratégias de negócios a Microsoft poderia adotar para recapturar o sucesso anterior do Windows NT? O que os concorrentes da Microsoft devem fazer para capitalizarem sua oportunidade atual de negócios?
-A Microsoft poderia investir em melhorar a estabilidade, segurança e compatibilidade do Windows NT/2000, além de oferecer suporte técnico eficiente e recursos que facilitassem a migração de empresas que usavam Unix. Também poderia adotar estratégias de marketing e parcerias com grandes corporações para reconquistar confiança.
-Já os concorrentes da Microsoft deveriam aproveitar o momento para destacar os pontos fortes de seus sistemas, como confiabilidade, menor custo e desempenho superior, buscando conquistar empresas que estavam insatisfeitas com as limitações do Windows NT.
+
 
 ⸻
 
